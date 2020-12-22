@@ -78,9 +78,9 @@
 </template>
 
 <script >
-import Layout from "../src/components/Layout.vue";
 import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+import Layout from "../src/components/Layout.vue";
 export default {
   components: { Layout },
   name: "profile",
