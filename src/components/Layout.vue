@@ -4,18 +4,6 @@
     <div class="item-layout">
       <img src alt />
     </div>
-    <div class="item-layout">
-      <img src alt />
-    </div>
-    <div class="item-layout">
-      <img src alt />
-    </div>
-    <div class="item-layout">
-      <img src alt />
-    </div>
-    <div class="item-layout">
-      <img src alt />
-    </div>
   </div>
 </template>
 

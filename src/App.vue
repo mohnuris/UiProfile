@@ -4,18 +4,16 @@
     <router-link to="/profile">Profile</router-link>|
     <router-link to="/about">About</router-link>
     <router-view />
-    <router-view />
-    <layout />
   </div>
 </template>
 
 <script>
-import Layout from "../src/components/Layout.vue";
+// import Layout from "../src/components/Layout.vue";
 
 export default {
   name: "app",
   components: {
-    Layout,
+    // Layout,
     // Layout,
   },
 };
