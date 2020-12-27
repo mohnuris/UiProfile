@@ -3,7 +3,6 @@ import {
   createWebHashHistory
 } from 'vue-router'
 import Home from '../views/Home.vue'
-import Profile from '../views/Profile.vue'
 import Layout from '../components/Layout.vue'
 
 const routes = [{
@@ -15,11 +14,6 @@ const routes = [{
     path: '/',
     name: 'Layout',
     component: Layout
-  },
-  {
-    path: '/Profile',
-    name: 'Profile',
-    component: Profile
   },
   {
     path: '/about',
